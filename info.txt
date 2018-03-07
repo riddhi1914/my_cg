@@ -1,0 +1,11 @@
+i riddhi savla was siting at home doing nothing
+
+so i wrote this xyz paragraph which i want to upload it in repository
+so 3 commands right ?
+type kar idhar konsa 3 ?
+git add
+git commit
+git push
+
+first add file....commit changes.....and push onto server
+
